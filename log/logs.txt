@@ -1,0 +1,49 @@
+('127.0.0.1', 44924) 2021-11-14 19:30:10.259621 GET /write.txt HTTP/1.1
+('127.0.0.1', 44928) 2021-11-14 19:30:35.959059 GET /write.txt HTTP/1.1
+('127.0.0.1', 45024) 2021-11-14 19:32:56.544487 GET /write.txt HTTP/1.1
+('127.0.0.1', 45962) 2021-11-14 19:44:10.096659 GET /write.txt HTTP/1.1
+('127.0.0.1', 45982) 2021-11-14 19:45:31.357656 GET /write.txt HTTP/1.1
+('127.0.0.1', 45992) 2021-11-14 19:48:23.362331 GET /write.txt HTTP/1.1
+('127.0.0.1', 45996) 2021-11-14 19:50:41.870783 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46000) 2021-11-14 19:51:34.078412 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46000) 2021-11-14 19:51:34.078944 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46012) 2021-11-14 19:52:15.952631 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46012) 2021-11-14 19:52:15.953002 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46036) 2021-11-14 19:53:57.649220 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46036) 2021-11-14 19:53:57.649737 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46046) 2021-11-14 19:56:23.262538 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46046) 2021-11-14 19:56:23.263094 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46050) 2021-11-14 19:57:23.795737 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46050) 2021-11-14 19:57:23.796236 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46056) 2021-11-14 19:57:53.561226 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46056) 2021-11-14 19:57:53.561945 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46080) 2021-11-14 20:00:23.775697 GET /write.txt HTTP/1.1
+('127.0.0.1', 46080) 2021-11-14 20:00:23.776025 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46080) 2021-11-14 20:00:23.776427 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46080) 2021-11-14 20:00:23.776892 PUT /hello.html HTTP/1.1
+('127.0.0.1', 46084) 2021-11-14 20:01:46.073154 GET /write.txt HTTP/1.1
+('127.0.0.1', 46084) 2021-11-14 20:01:46.073496 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46084) 2021-11-14 20:01:46.073907 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46084) 2021-11-14 20:01:46.074378 PUT /hello.html HTTP/1.1
+('127.0.0.1', 46096) 2021-11-14 20:02:27.781499 GET /write.txt HTTP/1.1
+('127.0.0.1', 46096) 2021-11-14 20:02:27.781819 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46096) 2021-11-14 20:02:27.782391 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46096) 2021-11-14 20:02:27.782874 PUT /hello.html HTTP/1.1
+('127.0.0.1', 46106) 2021-11-14 20:04:11.222802 GET /write.txt HTTP/1.1
+('127.0.0.1', 46106) 2021-11-14 20:04:11.223055 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46106) 2021-11-14 20:04:11.223475 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46106) 2021-11-14 20:04:11.223843 PUT /hello.html HTTP/1.1
+('127.0.0.1', 46110) 2021-11-14 20:06:02.154407 GET /write.txt HTTP/1.1
+('127.0.0.1', 46110) 2021-11-14 20:06:02.154690 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 46110) 2021-11-14 20:06:02.155103 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 46110) 2021-11-14 20:06:02.155470 PUT /hello.html HTTP/1.1
+('127.0.0.1', 50054) 2021-11-18 11:01:03.282681 GET /write.txt HTTP/1.1
+('127.0.0.1', 50056) 2021-11-18 11:01:20.187062 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 50058) 2021-11-18 11:01:30.374405 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 50060) 2021-11-18 11:01:40.742510 PUT /hello.html HTTP/1.1
+('127.0.0.1', 50074) 2021-11-18 11:06:52.923614 DELETE /POST/HTML/hello.txt HTTP / 1.1
+('127.0.0.1', 50076) 2021-11-18 11:07:09.547486 METHOD /POST/HTML/hello.txt HTTP / 1.1
+('127.0.0.1', 50078) 2021-11-18 11:07:47.340900 GET /write.txt HTTP/1.1
+('127.0.0.1', 50078) 2021-11-18 11:07:47.341274 HEAD /hello.html HTTP/1.1
+('127.0.0.1', 50078) 2021-11-18 11:07:47.341684 POST /form2.html HTTP/1.1Host: localhostUser-Agent: localhost
+('127.0.0.1', 50078) 2021-11-18 11:07:47.342106 PUT /hello.html HTTP/1.1
